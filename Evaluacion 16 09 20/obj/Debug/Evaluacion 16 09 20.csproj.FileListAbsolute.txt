@@ -1,0 +1,10 @@
+C:\Users\Juan\Desktop\UDA\Laboratorio II\Evaluacion 16 09 20\Evaluacion 16 09 20\bin\Debug\Evaluacion 16 09 20.exe.config
+C:\Users\Juan\Desktop\UDA\Laboratorio II\Evaluacion 16 09 20\Evaluacion 16 09 20\bin\Debug\Evaluacion 16 09 20.exe
+C:\Users\Juan\Desktop\UDA\Laboratorio II\Evaluacion 16 09 20\Evaluacion 16 09 20\bin\Debug\Evaluacion 16 09 20.pdb
+C:\Users\Juan\Desktop\UDA\Laboratorio II\Evaluacion 16 09 20\Evaluacion 16 09 20\obj\Debug\Evaluacion 16 09 20.csprojResolveAssemblyReference.cache
+C:\Users\Juan\Desktop\UDA\Laboratorio II\Evaluacion 16 09 20\Evaluacion 16 09 20\obj\Debug\Evaluacion 16 09 20.exe
+C:\Users\Juan\Desktop\UDA\Laboratorio II\Evaluacion 16 09 20\Evaluacion 16 09 20\obj\Debug\Evaluacion 16 09 20.pdb
+C:\Users\Juan\Desktop\Evaluacion 16 09 20\Evaluacion 16 09 20\bin\Debug\Evaluacion 16 09 20.exe.config
+C:\Users\Juan\Desktop\Evaluacion 16 09 20\Evaluacion 16 09 20\obj\Debug\Evaluacion 16 09 20.exe
+C:\Users\Juan\Desktop\Evaluacion 16 09 20\Evaluacion 16 09 20\obj\Debug\Evaluacion 16 09 20.pdb
+C:\Users\Juan\Desktop\Evaluacion 16 09 20\Evaluacion 16 09 20\obj\Debug\Evaluacion 16 09 20.csprojResolveAssemblyReference.cache
